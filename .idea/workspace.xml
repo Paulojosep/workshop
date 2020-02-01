@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/model/exceptions/ValidationException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gui/DepartmentFormController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/DepartmentFormController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/DepartmentList.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/DepartmentList.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gui/DepartmentListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gui/DepartmentListController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +235,7 @@
       <workItem from="1579291555019" duration="8493000" />
       <workItem from="1579361476727" duration="9143000" />
       <workItem from="1580521313285" duration="2613000" />
-      <workItem from="1580559421228" duration="4412000" />
+      <workItem from="1580559421228" duration="5834000" />
     </task>
     <servers />
   </component>
@@ -259,22 +259,22 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="570" y="256" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1579291584069" />
-    <state width="1637" height="271" key="GridCell.Tab.0.bottom" timestamp="1580565135357">
+    <state width="1637" height="271" key="GridCell.Tab.0.bottom" timestamp="1580566813524">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="271" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1580565135357" />
-    <state width="1637" height="271" key="GridCell.Tab.0.center" timestamp="1580565135357">
+    <state width="1637" height="271" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1580566813524" />
+    <state width="1637" height="271" key="GridCell.Tab.0.center" timestamp="1580566813524">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="271" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1580565135357" />
-    <state width="1637" height="271" key="GridCell.Tab.0.left" timestamp="1580565135356">
+    <state width="1637" height="271" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1580566813524" />
+    <state width="1637" height="271" key="GridCell.Tab.0.left" timestamp="1580566813524">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="271" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1580565135356" />
-    <state width="1637" height="271" key="GridCell.Tab.0.right" timestamp="1580565135357">
+    <state width="1637" height="271" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1580566813524" />
+    <state width="1637" height="271" key="GridCell.Tab.0.right" timestamp="1580566813524">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="271" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1580565135357" />
+    <state width="1637" height="271" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1580566813524" />
     <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1579365677776">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
